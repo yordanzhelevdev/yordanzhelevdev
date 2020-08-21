@@ -1,6 +1,6 @@
 ### Hi there, I'm Yordan. Welcome to my github profile.
 
-![Coding gif](intro.gif "Coding gif")
+![Coding gif](/intro.gif "Coding gif")
 
 ### Languages and Tools:
 
