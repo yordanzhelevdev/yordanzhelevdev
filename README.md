@@ -1,6 +1,7 @@
 ### Hi there, I'm Yordan. Welcome to my github profile.
 
-![Coding gif](https://github.com/yordanzhelevdev/yordanzhelevdev/blob/master/intro.gif "Coding gif")
+<img align="left" alt="Visual Studio Code" width="100%" src="https://github.com/yordanzhelevdev/yordanzhelevdev/blob/master/intro.gif" />
+&nbsp;
 
 ### Languages and Tools:
 
@@ -28,7 +29,10 @@
 
 
 <details>
+  
 <summary>✨ Most Used Languages</summary>
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yordanzhelevdev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
