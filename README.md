@@ -1,6 +1,8 @@
 ### Hi there, I'm Yordan. Welcome to my github profile.
 
+<div>
 <img align="left" alt="Visual Studio Code" width="100%" src="https://github.com/yordanzhelevdev/yordanzhelevdev/blob/master/intro.gif" />
+</div>
 
 
 ### Languages and Tools:
