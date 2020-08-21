@@ -1,3 +1,4 @@
+<link href="style.css" rel="stylesheet"></link>
 ### Hi there, I'm Yordan. Welcome to my github profile.
 
 ![Coding gif](https://github.com/yordanzhelevdev/yordanzhelevdev/blob/master/intro.gif "Coding gif")
