@@ -18,4 +18,9 @@
 <br />
 <br />
 
+### Github Stats
+
 [![yordanzhelevdev's github stats](https://github-readme-stats.vercel.app/api?username=yordanzhelevdev&show_icons=true&theme=radical)](https://github.com/yordanzhelevdev/github-readme-stats)
+
+### Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yordanzhelevdev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
