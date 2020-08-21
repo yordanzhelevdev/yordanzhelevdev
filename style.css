@@ -1,3 +1,5 @@
-body {
-    background: pink;
+.markdown-body {
+    background: #ffc9db4d;
+    padding: 20px;
+    border-radius: 6px;
 }
