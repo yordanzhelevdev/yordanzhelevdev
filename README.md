@@ -1,5 +1,4 @@
 ### Hi there, I'm Yordan. Welcome to my github profile.
-![](https://komarev.com/ghpvc/?yordanzhelevdev&color=blueviolet?)
 
 ![Coding Monkey](https://github.com/yordanzhelevdev/yordanzhelevdev/blob/master/intro.gif)
 
