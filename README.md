@@ -35,5 +35,4 @@
 </details>
 
 
-  [![](https://github-readme-stats.vercel.app/api?username=yordanzhelevdev&show_icons=true&theme=nightowl )](https://github-readme-stats.vercel.app/api?username=yordanzhelevdev&show_icons=true&theme=nightowl )
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yordanzhelevdev&hide_border=true&theme=nightowl )
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yordanzhelevdev&hide_border=true&theme=radical )
