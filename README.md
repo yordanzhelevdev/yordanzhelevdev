@@ -1,4 +1,4 @@
-### Hi there, I'm Yordan. Welcome to my github profile.
+### Hi there, I'm Yordan. Welcome to my github profile. <img src="https://komarev.com/ghpvc/?username=yordanzhelevdev&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" />
 
 ![Coding Monkey](https://github.com/yordanzhelevdev/yordanzhelevdev/blob/master/intro.gif)
 
