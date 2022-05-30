@@ -1,6 +1,6 @@
 ### Hello there, I'm Yordan. Welcome to my github profile. <img src="https://komarev.com/ghpvc/?username=yordanzhelevdev&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" />
 
-![snake gif](https://github.com/yordanzhelevdev/yordanzhelevdev/blob/master/intro.gif](https://github.com/yordanzhelevdev/yordanzhelevdev/blob/output/github-contribution-grid-snake.gif?raw=true)
+![snake gif](https://github.com/yordanzhelevdev/yordanzhelevdev/blob/output/github-contribution-grid-snake.gif?raw=true)
 
 ### Languages and Tools:
 
