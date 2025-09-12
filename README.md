@@ -1,4 +1,4 @@
-### Hello there, I'm Yordan. Welcome to my github profile. <img src="https://komarev.com/ghpvc/?username=yordanzhelevdev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Visits" />
+### Welcome to my GitHub profile. <img src="https://komarev.com/ghpvc/?username=yordanzhelevdev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Visits" />
 
 <a href="https://app.daily.dev/misfitzh"><img src="https://github.com/yordanzhelevdev/yordanzhelevdev/blob/master/devcard.svg" width="400" alt="Yordan Zhelev's Dev Card"/></a>
 
